@@ -35,7 +35,7 @@ Mit der Bereitstellung des Konzeptes [**Gründen in 24 Stunden**](https://www.g2
 Planungsphase in die Umsetzungsphase übergegangen, um eine möglichst rasche Umsetzung der nachfolgen skizzierten Systemarchitektur  
 und dadurch schließlich die angestrebte Unternehmensgründung innerhalb von 24 Stunden zu ermöglichen.  
 
-![Systemarchitektur](https://github.com/g24h/g24h/blob/main/img/G24.svg) 
+![Systemarchitektur](img/G24.svg) 
 
 Bei der anvisierten Systemarchitektur handelt es sich um Serice-orientierte Architektur (SOA) im 
 Sinne von [ISO/IEC 18384-2](https://www.iso.org/standard/63105.html), die im Einklang mit der
