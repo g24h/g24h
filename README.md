@@ -131,8 +131,7 @@ Echtheit des Dokuments erforderlich sind, aus dem elektronischen Speicher- und
 Verarbeitungsmedium eines von der Bundesrepublik Deutschland ausgegebenen Personalausweises, 
 Passes oder elektronischen Aufenthaltstitels oder eines amtlichen Ausweises oder Passes 
 eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, 
-**auszulesen**". Dies ist jedoch praktisch nur bei Personalausweisen, oder technisch  
-identisch aufgebauten Unionsbürgerkarten und elektronischen Aufenthaltstiteln,
+**auszulesen**". Dies ist jedoch praktisch nur bei Personalausweisen, oder technisch identisch aufgebauten Unionsbürgerkarten und elektronischen Aufenthaltstiteln,
 möglich, die ab dem [2. August 2021 ausgestellt](https://online.notar.de/hilfe-faq/auslesen-des-digitalen-lichtbildes/auslesevorgang-aus-dem-personalausweis) wurden.
 Darüber hinaus existieren weitere Herausforderungen bei [Beglaubigungen und Beurkundungen in ausländischen Online Verfahren]( ),
 die eine grenzüberschreitende Unternehmensgründung im Europäischen Binnenmarkt erschweren.
