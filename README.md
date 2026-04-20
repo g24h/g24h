@@ -1,4 +1,4 @@
-<img align="right" height="50" src="img/G24-Logo.svg"/><br/>
+<img align="right" height="50" src="https://github.com/g24h/g24h/raw/main/img/G24-Logo.svg"/><br/></br>
 
 # Gründen in 24 Stunden
 
@@ -35,7 +35,7 @@ Mit der Bereitstellung des Konzeptes [**Gründen in 24 Stunden**](https://www.g2
 Planungsphase in die Umsetzungsphase übergegangen, um eine möglichst rasche Umsetzung der nachfolgen skizzierten Systemarchitektur  
 und dadurch schließlich die angestrebte Unternehmensgründung innerhalb von 24 Stunden zu ermöglichen.  
 
-![Systemarchitektur](img/G24.svg) 
+![Systemarchitektur](https://github.com/g24h/g24h/raw/main/img/G24.svg) 
 
 Bei der anvisierten Systemarchitektur handelt es sich um Serice-orientierte Architektur (SOA) im 
 Sinne von [ISO/IEC 18384-2](https://www.iso.org/standard/63105.html), die im Einklang mit der
@@ -84,19 +84,69 @@ Ingenieure und Psychotherapeuten.
 
 #### Notar
 
+##### Beurkundung von Gründungsdokumenten
+
 Bei der Gründung einer Kapitalgesellschaft, wie z.B. GmbH, UG oder AG, und auch bei bestimmten Personengesellschaften, wie
-z.B. OHG, KG oder e.K., sind zwingend Notarinnen oder Notare im Gründungsprozess beteiligt, um letztlich die Anmeldung 
+z.B. OHG, KG oder e.K., sind zwingend Notarinnen oder Notare im Gründungsprozess beteiligt, um die Gründungsdokumente zu beurkunden und letztlich die Anmeldung 
 zur Eintragung ins Handelsregister vorzunehmen. Beispielsweise muss bei der Gründung einer GmbH gemäß 
-[§ 2 (1) GmbHG](https://www.gesetze-im-internet.de/gmbhg/__2.html) der Gesellschaftsvertrag von allen Gesellschaftern 
-unterzeichnet und notariell beglaubigt werden. Gemäß [§ 7 (2) GmbHG](https://www.gesetze-im-internet.de/gmbhg/__7.html) 
-darf die Anmeldung der Gesellschaft beim zuständigen Handelsregister erst erfolgen, nachdem zumindest die Hälfte des 
+[§ 2 (1) GmbHG](https://www.gesetze-im-internet.de/gmbhg/__2.html) der Gesellschaftsvertrag von allen Gesellschafterinnen und Gesellschaftern 
+unterzeichnet und notariell beurkundet werden. Eine fehlende Beurkundung des Gesellschaftsvertrags durch eine Notarin oder 
+einen Notar würde auf Grund von [§ 125 BGB](https://www.gesetze-im-internet.de/bgb/__125.html) zur Nichtigkeit des Gesellschaftsvertrags führen.
+Gemäß [§ 53 (1) GmbHG](https://www.gesetze-im-internet.de/gmbhg/__53.html) müsste auch eine, etwa bei einer späteren 
+Kapitalerhöhung notwendige, Änderung des Gesellschaftsvertrags durch einen Beschluss der Gesellschafter erfolgen, 
+der  gemäß [§ 53 (3) GmbHG](https://www.gesetze-im-internet.de/gmbhg/__53.html) ebenso notariell beurkundet werden muss.
+
+Die Details einer Beurkundung sind im Beurkundungsgesetz ([BeurkG](https://www.gesetze-im-internet.de/beurkg))
+geregelt. Bei der Beurkundung des unterzeichneten Gesellschaftsvertrags muss gemäß [§ 8 BeurkG](https://www.gesetze-im-internet.de/beurkg/__8.html)
+eine schriftliche oder elektronische Niederschrift angefertigt werden. Der Inhalt der Niederschrift 
+muss den Beteiligten gemäß [§ 13 (1) BeurkG](https://www.gesetze-im-internet.de/beurkg/__13.html) 
+in Gegenwart des Notars vorgelesen werden und die Niederschrift muss von den Beteiligten genehmigt
+und eigenhändig unterschrieben, oder gemäß [§ 13a (1) BeurkG](https://www.gesetze-im-internet.de/beurkg/__13a.html) 
+elektronisch signiert werden. Hierbei muss entweder eine qualifizierte elektronische Signatur gemäß [Artikel 3 (12)](https://www.eid.as/de/#article3) 
+der [eIDAS-Verordnung](https://www.eid.as/) erstellt, oder eine auf einem zur elektronischen 
+Erfassung der Unterschrift geeigneten Hilfsmittel, wie einem [Unterschriften-Pad](https://www.bnotk.de/fileadmin/user_upload_bnotk/Rundschreiben/2025/BNotK_RS_2025_04_Anlage_1.pdf), 
+eigenhändig unterschrieben werden. 
+
+Seit dem 1. August 2022 gestattet das Beurkundungsgesetz in 
+bestimmten Fällen des Gesellschafts- und des Registerrechts die Durchführung notarieller Beurkundungen und 
+Beglaubigungen in einem Online-Verfahren, was durch die Umsetzung der so genannten Digitalisierungsrichtlinie 
+[(EU) 2019/1151](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32019L1151) zum Einsatz digitaler Werkzeuge und 
+Verfahren im Gesellschaftsrecht durch das Gesetz zur Umsetzung der Digitalisierungsrichtlinie ([DiRUG](https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/BGBl/Bgbl_DiRUG.pdf?__blob=publicationFile&v=3)) vom 5. Juli 2021
+ermöglicht wurde. Dadurch kann gemäß [§ 16a (1) BeurkG](https://www.gesetze-im-internet.de/beurkg/__16a.html) 
+die Beurkundung von Willenserklärungen mittels des von der Bundesnotarkammer 
+nach [§ 78p BNotO](https://www.gesetze-im-internet.de/bnoto/__78p.html) betriebenen Videokommunikationssystems 
+erfolgen. Hierbei muss gemäß [§ 16b (1) BeurkG](https://www.gesetze-im-internet.de/beurkg/__16a.html) eine elektronische 
+Niederschrift aufgenommen und gemäß [§ 16b (3) BeurkG](https://www.gesetze-im-internet.de/beurkg/__16a.html) mit einer 
+qualifizierten elektronischen Signatur versehen werden. 
+
+Gemäß  [§ 16c BeurkG](https://www.gesetze-im-internet.de/beurkg/__16c.html)
+"**soll** sich der Notar Gewissheit über die Person der Beteiligten anhand eines ihm elektronisch übermittelten 
+Lichtbildes" verschaffen und die Identität der Person mit einem geeigneten elektronischen Identifizierungsmittel bestimmen. 
+Hierbei muss das elektronische Identifizierungsmittel auf dem Sicherheitsniveau **"hoch"** im Sinne von [Artikel 8 (2) lit. c)](https://www.eid.as/de/#article8) 
+gemäß [Artikel 9 notifiziert](https://www.eid.as/de/#article9) und gemäß [Artikel 6 anerkannt](https://www.eid.as/de/#article6) sein.
+"Das dem Notar zu übermittelnde Lichtbild ist mit Zustimmung des betreffenden 
+Beteiligten nebst Vornamen, Familienname, Tag der Geburt, ausstellendem Staat, 
+Dokumentenart, Gültigkeitsdauer sowie derjenigen Daten, die zur Überprüfung der 
+Echtheit des Dokuments erforderlich sind, aus dem elektronischen Speicher- und 
+Verarbeitungsmedium eines von der Bundesrepublik Deutschland ausgegebenen Personalausweises, 
+Passes oder elektronischen Aufenthaltstitels oder eines amtlichen Ausweises oder Passes 
+eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, 
+**auszulesen**". Dies ist jedoch praktisch nur bei Personalausweisen, oder technisch  
+identisch aufgebauten Unionsbürgerkarten und elektronischen Aufenthaltstiteln,
+möglich, die ab dem [2. August 2021 ausgestellt](https://online.notar.de/hilfe-faq/auslesen-des-digitalen-lichtbildes/auslesevorgang-aus-dem-personalausweis) wurden.
+Darüber hinaus existieren weitere Herausforderungen bei [Beglaubigungen und Beurkundungen in ausländischen Online Verfahren]( ),
+die eine grenzüberschreitende Unternehmensgründung im Europäischen Binnenmarkt erschweren.
+  
+##### Anmeldung zur Eintragung ins Handelsregister
+
+Gemäß [§ 7 (2) GmbHG](https://www.gesetze-im-internet.de/gmbhg/__7.html) darf die Anmeldung der Gesellschaft beim zuständigen Handelsregister erst erfolgen, nachdem zumindest die Hälfte des 
 Mindeststammkapitals auf das Geschäftskonto der Gesellschaft eingezahlt, oder als Sacheinlage bereitgestellt wurde. 
 Gemäß [§ 12 (2) HGB](https://www.gesetze-im-internet.de/hgb/__12.html) sind Dokumente zum Handelsregister in 
 elektronischer Form einzureichen, was unter Verwendung von XML-basierten `nachricht.reg.0400003` Nachrichten gemäß 
 [XJustiz](https://xjustiz.justiz.de/system/pdf/Spezifikation_XJustiz_351_06_03_2025.pdf) (Abschnitt 7, Fachmodul Register (REG)) 
-erfolgt, die letztlich im Regelfall über eine notarielle Softwareanwendung wie z.B. [XNotar](https://onlinehilfe.bnotk.de/einrichtungen/notarnet/xnotar.html) und 
-das [besondere elektronische Notarpostfach (beN)](https://onlinehilfe.bnotk.de/einrichtungen/bundesnotarkammer/besonderes-elektronisches-notarpostfach.html) 
-an das zuständige Registergericht übermittelt werden. Erwähnenswert erscheint, dass das XML-basierte `nachricht.reg.0400003` Datenformat nach der erfolgten Eintragung einer Gesellschaft ins Handelsregister auch für die Bereitstellung von strukturierten 
+erfolgt, die letztlich im Regelfall über eine notarielle Softwareanwendung, wie z.B. [XNotar](https://onlinehilfe.bnotk.de/einrichtungen/notarnet/xnotar.html) und 
+das [besondere elektronische Notarpostfach (beN)](https://onlinehilfe.bnotk.de/einrichtungen/bundesnotarkammer/besonderes-elektronisches-notarpostfach.html), an das zuständige Registergericht übermittelt werden. 
+Erwähnenswert erscheint, dass das XML-basierte `nachricht.reg.0400003` Datenformat nach der erfolgten Eintragung einer Gesellschaft ins Handelsregister auch für die Bereitstellung von strukturierten 
 Registerinhalten (SI) im [gemeinsamen Registerportal der Länder](https://www.handelsregister.de/) verwendet wird.  
 
 #### Bank
@@ -228,7 +278,8 @@ die Erteilung der [Wirtschafts-Identifikationsnummer (W-IdNr.)](https://www.bzst
 gemäß [§ 139c AO](https://www.gesetze-im-internet.de/ao_1977/__139c.html) und, sofern dies im Fragebogen angefragt wurde, 
 auch die für den umsatzsteuerfreien innergemeinschaftlichen Erwerb von Gütern oder Leistungen notwendige [Umsatzsteuer-Identifikationsnummer (USt-IdNr.)](https://www.bzst.de/DE/Unternehmen/Identifikationsnummern/Umsatzsteuer-Identifikationsnummer/umsatzsteuer-identifikationsnummer_node.html) 
 gemäß [§ 27a UStG](https://www.gesetze-im-internet.de/ustg_1980/__27a.html) für das neu gegründete Unternehmen angestoßen. Sobald 
-die angefragten Identifikationsnummern erteilt wurden, kann das neu gegründete Unternehmen Rechnungen gemäß [§ 14 UStG](https://www.gesetze-im-internet.de/ustg_1980/__14.html) stellen.
+die angefragten Identifikationsnummern erteilt wurden, kann das neu gegründete Unternehmen Rechnungen gemäß
+[§ 14 UStG](https://www.gesetze-im-internet.de/ustg_1980/__14.html) stellen.
 
 #### Deutsche Gesetzliche Unfallversicherung e.V. (DGUV)
 
@@ -266,8 +317,9 @@ genehmigten [Grundsätzen zum Betrieb des Zentralen Unternehmerverzeichnisses de
 Seit Beginn des Jahres 2024 wird die dem Unternehmen beim DGUV e.V. zugeordnete Unternehmen**s**nummer (UNR.**S**) auch
 zur [Beantragung einer Betriebsnummer](https://www.arbeitsagentur.de/unternehmen/betriebsnummern-service) gemäß [§ 18i SGB IV](https://www.gesetze-im-internet.de/sgb_4/__18i.html)
 bei der [Bundesagentur für Arbeit (BA)](https://www.arbeitsagentur.de/) benötigt, sofern dies [erforderlich](https://www.arbeitsagentur.de/datei/dok_ba031865.pdf) ist.
-Dies ist regelmäßig dann der Fall, wenn im neu gegründeten Unternehmen Mitarbeiterinnen oder Mitarbeiter angestellt sind, die nicht nur geringfügig beschäftigt sind und
-eine [Meldung zur Sozialversicherung](https://www.arbeitsagentur.de/unternehmen/betriebsnummern-service/meldeverfahren-sozialversicherung) gemäß [ ]( ) erfolgen muss.
+Dies ist regelmäßig dann der Fall, wenn im neu gegründeten Unternehmen Mitarbeiterinnen oder Mitarbeiter angestellt sind, 
+die nicht nur geringfügig beschäftigt sind und eine [Meldung zur Sozialversicherung](https://www.arbeitsagentur.de/unternehmen/betriebsnummern-service/meldeverfahren-sozialversicherung) gemäß [§ 28a SGB IV](https://www.gesetze-im-internet.de/sgb_4/__28a.html) und 
+[DEÜV](https://www.gesetze-im-internet.de/de_v) erfolgen muss.
 Während die [Beantragung](https://web.arbeitsagentur.de/bno-prod/ui/antrag/hinweise#/start) der Betriebsnummer gemäß [§ 18i (1) SGB IV](https://www.gesetze-im-internet.de/sgb_4/__18i.html) online erfolgen muss und auch die Vergabe und Speicherung der Betriebsnummer bei der BA elektronisch erfolgt, wird die erteilte Betriebsnummer dem Unternehmen 
 nach der [Antragstellung](https://www.arbeitsagentur.de/unternehmen/betriebsnummern-service/alles-wichtige) vom "Betriebsnummern-Service aus [Datenschutzgründen](https://www.arbeitsagentur.de/unternehmen/betriebsnummern-service/alles-wichtige/datenschutz-betriebsnummern-vergabe) nur per Post" mitgeteilt. 
 
