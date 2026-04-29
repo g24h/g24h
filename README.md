@@ -26,8 +26,26 @@ vorgelegt und schließlich am **18.03.2026** einen weiteren Regulierungsvorschla
 Unternehmensrecht veröffentlicht, mit dem im so genannten 28. Regime die Gründung einer [EU Inc.](https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en) 
 in einem vollständig digitalen Prozess innerhalb von 48 Stunden möglich werden soll. 
 
-Inzwischen hat die [DigitalService GmbH des Bundes](https://digitalservice.bund.de/projekte/schneller-gruenden) kürzlich ein entsprechendes Pilotprojekt in Aussicht gestellt, 
-das ab **Mai 2026** starten soll und für das sich bis zum **22.04.2026** interessierte [Pilot-Standorte bewerben](https://digitalservice.bund.de/media/pages/projekte/schneller-gruenden/3c137679c7-1775576914/schneller-gruenden_aufruf-pilotierung.pdf) können.
+Inzwischen hat die [DigitalService GmbH des Bundes](https://digitalservice.bund.de/projekte/schneller-gruenden) ein entsprechendes Pilotprojekt in Aussicht gestellt, 
+das ab **Mai 2026** starten soll und für das sich interessierte [Pilot-Standorte bewerben](https://digitalservice.bund.de/media/pages/projekte/schneller-gruenden/3c137679c7-1775576914/schneller-gruenden_aufruf-pilotierung.pdf) bis zum **22.04.2026**
+bewerben konnten. 
+
+## Gründen in <code style="color: red">24 Minuten</code> mit der EUDI-Wallet
+
+>
+> Um die effiziente Unternehmensgründung rasch voran zu bringen, sucht der [IT-Umsetzungsrat](https://it-umsetzungsrat.de) 
+> ab sofort <code style="color: red">**Turbo-Gewerbeämter**</code>, die unter Einsatz 
+> der [<code style="color: red">EUDI-Wallet</code>](https://eudi-wallet.gov.de/) das <code style="color: red">**Gründen in 24 Minuten**</code>
+> ermöglichen wollen.
+>
+
+Potenziell interessierte Kommunen und sonstige Institutionen mit einem Herz für Gründerinnen und Gründer werden um 
+Kontaktaufnahme per E-Mail an [g24h@eID.AS](mailto:g24h@eID.AS) gebeten.
+
+
+![24-Minuten-Gruendung](https://github.com/g24h/g24h/raw/main/img/Turbo-GA.svg)
+
+
 
 ## Umsetzung der Systemarchitektur für das Gründen in 24 Stunden
 
@@ -131,9 +149,10 @@ Echtheit des Dokuments erforderlich sind, aus dem elektronischen Speicher- und
 Verarbeitungsmedium eines von der Bundesrepublik Deutschland ausgegebenen Personalausweises, 
 Passes oder elektronischen Aufenthaltstitels oder eines amtlichen Ausweises oder Passes 
 eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, 
-**auszulesen**". Dies ist jedoch praktisch nur bei Personalausweisen, oder technisch identisch aufgebauten Unionsbürgerkarten und elektronischen Aufenthaltstiteln,
+**auszulesen**". Dies ist jedoch praktisch nur bei Personalausweisen, oder technisch 
+identisch aufgebauten Unionsbürgerkarten und elektronischen Aufenthaltstiteln,
 möglich, die ab dem [2. August 2021 ausgestellt](https://online.notar.de/hilfe-faq/auslesen-des-digitalen-lichtbildes/auslesevorgang-aus-dem-personalausweis) wurden.
-Darüber hinaus existieren weitere Herausforderungen bei [Beglaubigungen und Beurkundungen in ausländischen Online Verfahren]( ),
+Darüber hinaus existieren weitere Herausforderungen bei [Beglaubigungen und Beurkundungen in ausländischen Online Verfahren](https://www.bnotk.de/aufgaben-und-taetigkeiten/rundschreiben/details/beglaubigungen-und-beurkundungen-in-auslaendischen-online-verfahren),
 die eine grenzüberschreitende Unternehmensgründung im Europäischen Binnenmarkt erschweren.
   
 ##### Anmeldung zur Eintragung ins Handelsregister
